@@ -1,5 +1,5 @@
 Library of missing powershell commands for SQL server, used for making static reports<BR>
-Copy to root reporting folder
+Copy .css and .js files to root reporting folder for nicer html formatting
 
 use it: 
 ```powershell
