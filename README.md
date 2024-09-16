@@ -1,4 +1,4 @@
-Library of missing powershell commands for SQL server, used for making static reports
+Library of missing powershell commands for SQL server, used for making static reports<BR>
 Copy to root reporting folder
 
 use it: 
