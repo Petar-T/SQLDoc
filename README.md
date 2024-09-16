@@ -1,4 +1,12 @@
 Library of missing powershell commands for SQL server, used for making static reports
+Copy to root reporting folder
+
+use it: 
+```powershell
+Import-Module "C:\Folder\sql_Monitor.psm1" -Force
+SQLDoc-PerfCounters-Collect -DataWarehouseServer Petar-Tr -DataWarehouseDatabase SQL_Datawarehouse 
+```
+
 
 Functions included
 
